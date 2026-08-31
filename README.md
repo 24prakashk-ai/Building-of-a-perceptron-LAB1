@@ -6,4 +6,5 @@ Deep-Learning (Anushka Kalambe)/
 └── Lab2-ANN
 └── Lab2-ANN Regression 
 └── Lab3-MNIST
-└── Lab4-LeNET5
+└── Lab4-LeNET 5
+└── Data Augmentation_waterpollution
